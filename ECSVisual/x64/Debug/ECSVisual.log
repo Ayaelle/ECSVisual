@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Projets\ECSVisual\External\SFML\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Projets\ECSVisual\External\SFML\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  ECSVisual.vcxproj -> C:\Projets\ECSVisual\x64\Debug\ECSVisual.exe
